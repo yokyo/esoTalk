@@ -8,7 +8,6 @@ config/*
 uploads/*
 robots.txt
 addons/plugins/*
-addons/languages/*
 addons/skins/*
 addons/libraries/*
 !addons/plugins/BBCode
@@ -16,12 +15,6 @@ addons/libraries/*
 !addons/plugins/Emoticons
 !addons/plugins/SMTP
 !addons/plugins/index.html
-!addons/languages/English/definitions.php
-!addons/languages/English/definitions.BBCode.php
-!addons/languages/English/definitions.Debug.php
-!addons/languages/English/definitions.Emoticons.php
-!addons/languages/English/definitions.SMTP.php
-!addons/languages/index.html
 !addons/skins/Default
 !addons/skins/index.html
 
